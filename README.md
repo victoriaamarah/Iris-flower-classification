@@ -1,2 +1,2 @@
 # Iris-flower-classification
-Classifies the iris flower using logistic regression model
+Classifies the iris flower using a logistic regression model
